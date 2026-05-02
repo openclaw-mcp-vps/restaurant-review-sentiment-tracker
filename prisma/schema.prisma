@@ -1,0 +1,2 @@
+// Intentionally unused.
+// This project persists data via filesystem JSON in lib/database.ts to avoid ORM/codegen overhead in serverless builds.

@@ -1,0 +1,33 @@
+{
+  "name": "restaurant-review-sentiment-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.12",
+    "cheerio": "^1.1.2",
+    "cron": "^4.3.3",
+    "lucide-react": "^0.511.0",
+    "next": "^15.5.2",
+    "next-auth": "^4.24.11",
+    "nodemailer": "^7.0.3",
+    "openai": "^6.1.0",
+    "puppeteer": "^24.31.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "recharts": "^3.1.2",
+    "tailwindcss": "^4.1.12",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/nodemailer": "^7.0.3",
+    "@types/react": "^19.1.5",
+    "@types/react-dom": "^19.1.5",
+    "typescript": "^5.9.3"
+  }
+}
